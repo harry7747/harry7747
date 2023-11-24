@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harry!
-- 👀 I’m interested in creating different things by coding.
+- 👀 I’m interested in creating different things through coding.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on App & Web Development
 - 📫 How to reach me muhammadhasan7@outlook.com
