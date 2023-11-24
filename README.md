@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harry7747
+- 👋 Hi, I’m Harry!
 - 👀 I’m interested in creating different things by coding.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on App & Web Development
