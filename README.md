@@ -2,7 +2,7 @@
 
 - 🎯 I build data science & machine learning projects.
 - 🐍 Python, pandas, scikit-learn, Tensorflow, Keras.
-- 📊 Created a Spotify listening data analyzer & a rainfall prediction classifier.
+- 📊 Created a Spotify listening data analyzer & a rainfall prediction classifier model.
 - 🚀 Aiming for ML & data roles in tech domain.
 - 💻 Always learning & sharing new work here.
 
